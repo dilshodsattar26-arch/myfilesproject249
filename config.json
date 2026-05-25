@@ -1,0 +1,8 @@
+{
+    "name": "cloudservice-service",
+    "version": "1.0.249",
+    "private": false,
+    "environment": "production",
+    "build_id": 899,
+    "allow_public_access": true
+}
